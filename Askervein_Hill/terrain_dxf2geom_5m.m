@@ -144,7 +144,7 @@ disp(['   Number of  faces on Regular Grid: ' num2str(nfaces)])
 
 %% DEVC locations, added by RJM ...............
 F = scatteredInterpolant(VERTS(:,IAXIS)-HT_x,VERTS(:,JAXIS)-HT_y,VERTS(:,KAXIS),'natural')
-M = importdata('devc_loc_3.csv',',',1)
+M = importdata('Askervein_devc_loc.csv',',',1)
 xdevc = M.data(:,4)-HT_x;
 ydevc = M.data(:,5)-(HT_y+8e5);
 zdevc_agl = M.data(:,3);

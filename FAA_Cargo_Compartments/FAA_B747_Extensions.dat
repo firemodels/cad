@@ -1,0 +1,15 @@
+&OBST ID='EXT', XB=7.5,10.91,2.11,2.71,1.4,2,  SURF_ID='Insulation'/
+&OBST ID='EXT', XB=7.5,10.91,1.71,2.11,1.3,2,  SURF_ID='Insulation'/
+&OBST ID='EXT', XB=7.5,10.91,1.11,1.71,1.2,2,  SURF_ID='Insulation'/
+&OBST ID='EXT', XB=7.5,10.91,0.71,1.11,0.8,2,  SURF_ID='Insulation'/
+&OBST ID='EXT', XB=7.5,10.91,0.41,0.71,0.6,2,  SURF_ID='Insulation'/
+&OBST ID='EXT', XB=7.5,10.91,0.21,0.41,0.4,2,  SURF_ID='Insulation'/
+&OBST ID='EXT', XB=7.5,10.91,0.01,0.21,0.2,2,  SURF_ID='Insulation'/
+
+&OBST ID='EXT', XB=7.5,10.91,2.71,3.31,1.4,2,  SURF_ID='Insulation'/
+&OBST ID='EXT', XB=7.5,10.91,3.31,3.71,1.3,2,  SURF_ID='Insulation'/
+&OBST ID='EXT', XB=7.5,10.91,3.71,4.31,1.2,2,  SURF_ID='Insulation'/
+&OBST ID='EXT', XB=7.5,10.91,4.31,4.71,0.8,2,  SURF_ID='Insulation'/
+&OBST ID='EXT', XB=7.5,10.91,4.71,5.01,0.6,2,  SURF_ID='Insulation'/
+&OBST ID='EXT', XB=7.5,10.91,5.01,5.21,0.4,2,  SURF_ID='Insulation'/
+&OBST ID='EXT', XB=7.5,10.91,5.21,5.41,0.2,2,  SURF_ID='Insulation'/

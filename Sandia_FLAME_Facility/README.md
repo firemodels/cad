@@ -3,7 +3,7 @@
 Flame_first.dwg was obtained from Sandia National Laboratories.
 
 The facility is described in this paper:  
-S. R. TIESZEN and T. J. O’HERN, R. W. SCHEFER, E. J. WECKMAN, T. K. BLANCHAT. Experimental Study of the Flow Field In and Around A One Meter Diameter Methane Fire. _COMBUSTION AND FLAME_ 129:378–391 (2002).
+S. R. TIESZEN, T. J. O’HERN, R. W. SCHEFER, E. J. WECKMAN, T. K. BLANCHAT. Experimental Study of the Flow Field In and Around A One Meter Diameter Methane Fire. _COMBUSTION AND FLAME_ 129:378–391 (2002).
 
 ### Pyrosim
 

@@ -7,10 +7,12 @@ S. R. TIESZEN and T. J. O’HERN, R. W. SCHEFER, E. J. WECKMAN, T. K. BLANCHAT. 
 
 ### Pyrosim
 
-Sandia_FLAME.psm is a Pyrosim input file obtained by importing the Flame_first.dwg file.
+Sandia_FLAME.psm is a [Pyrosim](https://www.thunderheadeng.com/pyrosim/) input file obtained by importing the Flame_first.dwg file.
 
 ### BlenderFDS
 
 FLAME.blend is a [BlenderFDS](https://github.com/firetools/blenderfds) file built based on the description in the paper cited above.
+
+![](BlenderFDS_FLAME_image.png)
 
 
